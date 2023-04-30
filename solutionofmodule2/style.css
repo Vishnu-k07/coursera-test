@@ -1,0 +1,61 @@
+
+.section {
+    position: relative;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #f2f2f2;
+    border: 1px solid #000;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.section-title {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #ff7f50;
+    padding: 10px;
+    color: #fff;
+    font-weight: bold;
+    border: 1px solid #000;
+    border-bottom: none;
+    border-right: none;
+    text-align: center;
+}
+
+@media (min-width: 992px) {
+    .section {
+       width:33.3%;
+       margin-left: auto;
+       margin-right:  auto;
+       float: left;
+
+    
+    }
+}
+
+
+
+@media  (min-width: 762px ) and (max-width: 991px) {
+    .section2 {
+        width: 50%;
+        margin-right: auto;
+        margin-left: auto;
+        float:left;
+       
+    }
+    
+
+}
+
+@media  (max-width: 761px) {
+    .section3 {
+        width: 100%;
+        margin-right: auto;
+        margin-left: auto;
+        float: left;
+    }
+    
+
+}
+
