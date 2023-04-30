@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Responsive Layout Example</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+		<h1>Our Menu</h1>
+		<div class="section section2 section3">
+			<div class="section-title">HTMl</div>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend, nisi eu sollicitudin dictum, est nunc dapibus lorem, vel ultrices eros dolor ac lorem.</p>
+		</div>
+		<div class="section section2 section3">
+			<div class="section-title">CSS</div>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend, nisi eu sollicitudin dictum, est nunc dapibus lorem, vel ultrices eros dolor ac lorem.</p>
+		</div>
+		<div class="section section2 section3">
+			<div class="section-title">JAVASCRIPT</div>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend, nisi eu sollicitudin dictum, est nunc dapibus lorem, vel ultrices eros dolor ac lorem.</p>
+		</div>
+	
+</body>
+</html>
